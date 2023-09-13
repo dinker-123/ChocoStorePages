@@ -1,0 +1,30 @@
+.navbar {
+    padding: 0px;
+    font-size: 14px; 
+  }
+
+  #chocolateForm {
+    border: 1px solid #ccc;
+    padding: 20px;
+    border-radius: 5px;
+}
+
+.form-check-label {
+    font-weight: normal;
+}
+
+/* Style the Product Cards */
+.card {
+  width: 100%;
+  margin-bottom: 20px;
+}
+
+/* Style the card image */
+.card-img-top {
+  height: 200px; /* Adjust the height as needed */
+  object-fit: cover;
+}
+
+.form-check-label {
+  font-weight: normal;
+}
